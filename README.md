@@ -7,6 +7,9 @@
 * [Credits](#credits)
 
 # Flappy-Bird
+Please read: Check releases before downloading anything. This project is still in developent and making this game to rust
+
+
 Flappy Bird completely made in html, css and javascript
 
 Game: Fly between the opstacles to get a high score. Collect the coins and try to get far.  
